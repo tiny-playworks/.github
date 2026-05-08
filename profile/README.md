@@ -1,55 +1,39 @@
-# 浮生实验室 · tiny-playworks
+# tiny-playworks · 浮生实验室
 
-**一个人的小游戏实验室。**
+一个人的小游戏与前端实验空间。
 
-这里是我过去半年做的一些东西——小游戏、前端实验、AI 辅助开发的尝试，以及一些写着玩的轻量工具。
+这里放的是我持续在做的一些项目：小游戏原型、前端玩法实验，以及少量围绕 AI 辅助开发的尝试。
+不是公司主页，也不是团队介绍页，就是一个个人创作空间。
 
-没有团队，没有融资，没有宏大的商业计划。
-就是一个喜欢写代码的人，在业余时间做一些自己觉得有意思的东西。
+## 现在在做
 
----
+| 项目 | 说明 | 入口 |
+| --- | --- | --- |
+| [Frontend Cultivation](https://frontend-cultivation.pages.dev) | 把前端成长、技术债、工程化和状态管理写成修仙题材的 Web 放置经营原型。 | 在线体验 |
+| [SpireWalker](https://spirewalker.miaoduidui.workers.dev) | 爬塔题材的卡牌与策略原型。 | 在线体验 |
+| [Tiny Game Hub](https://game-hub-sage-nine.vercel.app) | 小游戏合集入口，集中放试玩项目。 | 在线体验 |
 
-## Featured Projects
+## 方向
 
-| 项目 | 说明 | 状态 |
-|------|------|------|
-| [Frontend Cultivation](https://github.com/tiny-playworks/frontend-cultivation) | 把前端成长写成修仙。技术债是心魔，重构是渡劫，状态管理是修炼内功。 | playable prototype |
-| [SpireWalker](https://github.com/tiny-playworks/spire-walker) | 受《杀戮尖塔》启发的网页 Roguelike 卡牌游戏，React + Phaser + TypeScript。 | experimental |
-| [Tiny Game Hub](https://github.com/tiny-playworks/tiny-game-hub) | 小游戏合集 / 导航入口。 | active |
-
-## More Projects
-
-| 项目 | 说明 | 状态 |
-|------|------|------|
-| [Mahjong Mini Games](https://github.com/tiny-playworks/mahjong-mini-games) | 围绕日式麻将做的小型玩法实验，偏 prototype。 | prototype |
-| [SpireWalker UE](https://github.com/tiny-playworks/spire-walker-ue) | 把卡牌战斗搬到 Unreal Engine 里试试。 | experimental / shelved |
-| [mood_log](https://github.com/tiny-playworks/mood-log) | 一个很轻的记录工具。 | usable |
-| [SpecFlow](https://github.com/tiny-playworks/spec-flow) | 关于 AI 辅助规格化开发流程的实验。 | experimental |
-
----
+- 小游戏原型
+- 前端表达实验
+- AI 辅助开发流程尝试
 
 ## 关于
 
-**tiny-playworks**，中文名「浮生实验室」。
+我喜欢把抽象的工程概念做成可玩的系统。
+技术债、Bug、重构、构建效率、状态管理，这些平时很工程的话题，换个表达方式，也可以变成游戏体验。
 
-不是公司，不是创业团队。就是一个人的创作空间。
+这里的项目不追求统一技术栈，也不追求“像公司官网”。
+重点只有两个：
 
-「浮生」取自"浮生若梦"——人生短暂，不如做一些好玩的东西。
-「playworks」是 play + works——既是"玩的作品"，也是"认真地玩"。
-
-我喜欢把抽象的技术概念具象化、游戏化。前端修仙也好，卡牌爬塔也好，本质上都是在探索"代码能不能变成一种游戏体验"。
-
-**技术栈：** 没有统一的技术栈，做什么用什么。React、TypeScript、Phaser、Unreal Engine、Vite、Tailwind CSS，看心情。
-
----
+- 做自己真的想做的东西
+- 把想法尽量做成能运行、能被体验的作品
 
 ## Notes
 
-- 这里的很多项目是实验性质的，可能写着写着就放下了
-- 有些项目还不完善，代码可能不够优雅
-- 没有 SLA，没有 roadmap，没有季度 OKR
-- 但每个项目都是认真在做的，不是随便 fork 然后改个名
+- 很多项目还在原型阶段
+- 有些仓库暂时不公开，但会优先把可体验的入口放出来
+- 这里展示的是正在探索的方向，不是包装出来的人设
 
-如果你觉得某个项目有意思，欢迎看看代码、提 issue、或者 fork 去玩。
-
-> 浮生若梦，为欢几何。写点好玩的，就很好了。
+> 浮生若梦，写点好玩的。
